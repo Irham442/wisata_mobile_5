@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_mobile_5/materimodulscreens/mystatelesswidget.dart';
+// import 'package:wisata_mobile_5/materimodulscreens/mystatelesswidget.dart';
 import 'package:wisata_mobile_5/models/landing.model.dart';
 import 'package:wisata_mobile_5/screens/homescreen.dart';
 import 'package:wisata_mobile_5/utils/const.dart';

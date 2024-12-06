@@ -42,7 +42,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   height: 300,
                 ),
                 Text(
-                  'ALING',
+                  'IRHAM',
                   style: TextStyle(
                       fontSize: 40,
                       fontWeight: FontWeight.bold,
